@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+version="1.1"
+creator="Topo Maps">
+    <rte>
+        <name>GHTC James St-Victoria Road</name>
+        <rtept lat="43.549239" lon="-80.220105">
+        </rtept>
+        <rtept lat="43.548626" lon="-80.221315">
+        </rtept>
+        <rtept lat="43.547914" lon="-80.22208">
+        </rtept>
+        <rtept lat="43.547255" lon="-80.222627">
+        </rtept>
+        <rtept lat="43.546158" lon="-80.223989">
+        </rtept>
+        <rtept lat="43.545756" lon="-80.224413">
+        </rtept>
+        <rtept lat="43.54541" lon="-80.224625">
+        </rtept>
+        <rtept lat="43.544996" lon="-80.225344">
+        </rtept>
+        <rtept lat="43.54389" lon="-80.226307">
+        </rtept>
+        <rtept lat="43.543435" lon="-80.226905">
+        </rtept>
+        <rtept lat="43.540921" lon="-80.231172">
+        </rtept>
+        <rtept lat="43.539879" lon="-80.23346">
+        </rtept>
+        <rtept lat="43.539326" lon="-80.23522">
+        </rtept>
+        <rtept lat="43.539313" lon="-80.235858">
+        </rtept>
+        <rtept lat="43.53887" lon="-80.23847">
+        </rtept>
+        <rtept lat="43.539007" lon="-80.238641">
+        </rtept>
+    </rte>
+</gpx>

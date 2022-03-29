@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Topo Maps">
+  <rte>
+    <name>GHTC James St-Victoria Road</name>
+    <rtept lat="43.549239" lon="-80.220105"/>
+    <rtept lat="43.548626" lon="-80.221315"/>
+    <rtept lat="43.547914" lon="-80.222080"/>
+    <rtept lat="43.547255" lon="-80.222627"/>
+    <rtept lat="43.546158" lon="-80.223989"/>
+    <rtept lat="43.545756" lon="-80.224413"/>
+    <rtept lat="43.545410" lon="-80.224625"/>
+    <rtept lat="43.544996" lon="-80.225344"/>
+    <rtept lat="43.543890" lon="-80.226307"/>
+    <rtept lat="43.543435" lon="-80.226905"/>
+    <rtept lat="43.540921" lon="-80.231172"/>
+    <rtept lat="43.539879" lon="-80.233460"/>
+    <rtept lat="43.539326" lon="-80.235220"/>
+    <rtept lat="43.539313" lon="-80.235858"/>
+    <rtept lat="43.538870" lon="-80.238470"/>
+    <rtept lat="43.539007" lon="-80.238641"/>
+  </rte>
+  <rte>
+    <name>GHTC Victoria Road - Stone Road</name>
+    <rtept lat="43.549239" lon="-80.220105"/>
+    <rtept lat="43.550134" lon="-80.218116"/>
+    <rtept lat="43.551365" lon="-80.216938"/>
+    <rtept lat="43.551855" lon="-80.216242"/>
+    <rtept lat="43.552988" lon="-80.213772"/>
+    <rtept lat="43.553026" lon="-80.212606"/>
+    <rtept lat="43.552552" lon="-80.210414"/>
+    <rtept lat="43.551822" lon="-80.208506"/>
+    <rtept lat="43.551822" lon="-80.208506"/>
+    <rtept lat="43.550464" lon="-80.205724"/>
+    <rtept lat="43.549272" lon="-80.204040"/>
+    <rtept lat="43.549272" lon="-80.204040"/>
+    <rtept lat="43.547727" lon="-80.202110"/>
+    <rtept lat="43.547041" lon="-80.200935"/>
+    <rtept lat="43.546378" lon="-80.199452"/>
+    <rtept lat="43.546073" lon="-80.198988"/>
+    <rtept lat="43.545854" lon="-80.199120"/>
+    <rtept lat="43.545920" lon="-80.198931"/>
+    <rtept lat="43.546503" lon="-80.198210"/>
+  </rte>
+</gpx>

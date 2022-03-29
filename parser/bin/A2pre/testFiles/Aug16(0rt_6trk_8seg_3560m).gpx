@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+version="1.1"
+creator="Topo Maps">
+<trk>
+<name>Are we going to Reynolds</name>
+<trkseg>
+<trkpt lat="43.537299" lon="-80.218267">
+<ele>336.0</ele>
+</trkpt>
+<trkpt lat="43.536098" lon="-80.220027">
+<ele>312.1</ele>
+</trkpt>
+<trkpt lat="43.535124" lon="-80.221068">
+<ele>310.4</ele>
+</trkpt>
+<trkpt lat="43.53422" lon="-80.222287">
+<ele>317.9</ele>
+</trkpt>
+<trkpt lat="43.533515" lon="-80.222935">
+<ele>322.9</ele>
+</trkpt>
+<trkpt lat="43.531465" lon="-80.225919">
+<ele>295.4</ele>
+</trkpt>
+<trkpt lat="43.531367" lon="-80.226122">
+<ele>292.5</ele>
+</trkpt>
+</trkseg>
+<trkseg>
+<trkpt lat="43.530739" lon="-80.229501">
+<ele>323.2</ele>
+</trkpt>
+<trkpt lat="43.53085" lon="-80.229585">
+<ele>325.2</ele>
+</trkpt>
+</trkseg>
+</trk>
+<trk>
+<name>Arboretum semi loop</name>
+<trkseg>
+<trkpt lat="43.536739" lon="-80.219084">
+<ele>327.0</ele>
+</trkpt>
+<trkpt lat="43.53708" lon="-80.218478">
+<ele>325.3</ele>
+</trkpt>
+<trkpt lat="43.537772" lon="-80.217628">
+<ele>322.5</ele>
+</trkpt>
+<trkpt lat="43.537968" lon="-80.21791">
+<ele>321.6</ele>
+</trkpt>
+<trkpt lat="43.538101" lon="-80.21835">
+<ele>320.5</ele>
+</trkpt>
+<trkpt lat="43.538241" lon="-80.218354">
+<ele>320.1</ele>
+</trkpt>
+</trkseg>
+<trkseg>
+<trkpt lat="43.538216" lon="-80.21826">
+<ele>322.7</ele>
+</trkpt>
+<trkpt lat="43.538379" lon="-80.218197">
+<ele>333.3</ele>
+</trkpt>
+<trkpt lat="43.5384" lon="-80.21782">
+<ele>332.2</ele>
+</trkpt>
+<trkpt lat="43.53829" lon="-80.217798">
+<ele>329.7</ele>
+</trkpt>
+<trkpt lat="43.538278" lon="-80.217875">
+<ele>328.4</ele>
+</trkpt>
+<trkpt lat="43.538306" lon="-80.217737">
+<ele>328.3</ele>
+</trkpt>
+<trkpt lat="43.538195" lon="-80.217587">
+<ele>328.8</ele>
+</trkpt>
+<trkpt lat="43.538199" lon="-80.217673">
+<ele>329.0</ele>
+</trkpt>
+<trkpt lat="43.538213" lon="-80.217561">
+<ele>329.2</ele>
+</trkpt>
+<trkpt lat="43.53807" lon="-80.217372">
+<ele>329.9</ele>
+</trkpt>
+<trkpt lat="43.538008" lon="-80.217338">
+<ele>327.5</ele>
+</trkpt>
+<trkpt lat="43.537841" lon="-80.21762">
+<ele>322.5</ele>
+</trkpt>
+</trkseg>
+</trk>
+<trk>
+<name>Arboretum semi loop</name>
+<trkseg>
+<trkpt lat="43.536739" lon="-80.219084">
+<ele>327.0</ele>
+</trkpt>
+<trkpt lat="43.53708" lon="-80.218478">
+<ele>325.3</ele>
+</trkpt>
+<trkpt lat="43.537772" lon="-80.217628">
+<ele>322.5</ele>
+</trkpt>
+<trkpt lat="43.537968" lon="-80.21791">
+<ele>321.6</ele>
+</trkpt>
+<trkpt lat="43.538101" lon="-80.21835">
+<ele>320.5</ele>
+</trkpt>
+<trkpt lat="43.538241" lon="-80.218354">
+<ele>320.1</ele>
+</trkpt>
+<trkpt lat="43.538216" lon="-80.21826">
+<ele>322.7</ele>
+</trkpt>
+<trkpt lat="43.538379" lon="-80.218197">
+<ele>333.3</ele>
+</trkpt>
+<trkpt lat="43.5384" lon="-80.21782">
+<ele>332.2</ele>
+</trkpt>
+<trkpt lat="43.53829" lon="-80.217798">
+<ele>329.7</ele>
+</trkpt>
+<trkpt lat="43.538278" lon="-80.217875">
+<ele>328.4</ele>
+</trkpt>
+<trkpt lat="43.538306" lon="-80.217737">
+<ele>328.3</ele>
+</trkpt>
+<trkpt lat="43.538195" lon="-80.217587">
+<ele>328.8</ele>
+</trkpt>
+<trkpt lat="43.538199" lon="-80.217673">
+<ele>329.0</ele>
+</trkpt>
+<trkpt lat="43.538213" lon="-80.217561">
+<ele>329.2</ele>
+</trkpt>
+<trkpt lat="43.53807" lon="-80.217372">
+<ele>329.9</ele>
+</trkpt>
+<trkpt lat="43.538008" lon="-80.217338">
+<ele>327.5</ele>
+</trkpt>
+<trkpt lat="43.537841" lon="-80.21762">
+<ele>322.5</ele>
+</trkpt>
+</trkseg>
+</trk>
+<trk>
+<name>Memorial Forest Loop</name>
+<trkseg>
+<trkpt lat="43.53606" lon="-80.220311">
+<ele>333.0</ele>
+</trkpt>
+<trkpt lat="43.536165" lon="-80.220411">
+<ele>331.1</ele>
+</trkpt>
+<trkpt lat="43.536126" lon="-80.220605">
+<ele>328.8</ele>
+</trkpt>
+<trkpt lat="43.536231" lon="-80.221147">
+<ele>322.6</ele>
+</trkpt>
+<trkpt lat="43.536339" lon="-80.22127">
+<ele>320.5</ele>
+</trkpt>
+<trkpt lat="43.536468" lon="-80.221092">
+<ele>322.5</ele>
+</trkpt>
+<trkpt lat="43.536829" lon="-80.22098">
+<ele>328.7</ele>
+</trkpt>
+<trkpt lat="43.537127" lon="-80.219921">
+<ele>332.4</ele>
+</trkpt>
+<trkpt lat="43.536772" lon="-80.219615">
+<ele>330.7</ele>
+</trkpt>
+<trkpt lat="43.536509" lon="-80.219915">
+<ele>325.0</ele>
+</trkpt>
+<trkpt lat="43.536247" lon="-80.219885">
+<ele>320.7</ele>
+</trkpt>
+<trkpt lat="43.535885" lon="-80.220224">
+<ele>317.0</ele>
+</trkpt>
+</trkseg>
+</trk>
+<trk>
+<name>Reynolds To  Rozh. parking lot</name>
+<trkseg>
+<trkpt lat="43.530893" lon="-80.228928">
+<ele>334.0</ele>
+</trkpt>
+<trkpt lat="43.531214" lon="-80.229021">
+<ele>330.2</ele>
+</trkpt>
+<trkpt lat="43.5322" lon="-80.228675">
+<ele>334.2</ele>
+</trkpt>
+<trkpt lat="43.532776" lon="-80.227996">
+<ele>340.0</ele>
+</trkpt>
+<trkpt lat="43.532623" lon="-80.226235">
+<ele>340.0</ele>
+</trkpt>
+<trkpt lat="43.532756" lon="-80.226043">
+<ele>339.8</ele>
+</trkpt>
+</trkseg>
+</trk>
+<trk>
+<name>Rozanski parking lot to Arboretum entrance</name>
+<trkseg>
+<trkpt lat="43.532741" lon="-80.226037">
+<ele>338.0</ele>
+</trkpt>
+<trkpt lat="43.532182" lon="-80.225096">
+<ele>333.6</ele>
+</trkpt>
+<trkpt lat="43.53241" lon="-80.224742">
+<ele>331.8</ele>
+</trkpt>
+<trkpt lat="43.532556" lon="-80.224208">
+<ele>329.7</ele>
+</trkpt>
+<trkpt lat="43.532907" lon="-80.223827">
+<ele>327.5</ele>
+</trkpt>
+<trkpt lat="43.533205" lon="-80.223166">
+<ele>329.3</ele>
+</trkpt>
+<trkpt lat="43.533739" lon="-80.222611">
+<ele>332.6</ele>
+</trkpt>
+<trkpt lat="43.534" lon="-80.222501">
+<ele>334.0</ele>
+</trkpt>
+<trkpt lat="43.534833" lon="-80.221277">
+<ele>337.7</ele>
+</trkpt>
+<trkpt lat="43.535813" lon="-80.220125">
+<ele>329.7</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+version="1.1"
+creator="Topo Maps">
+<trk>
+<name>Are we going to Reynolds</name>
+<trkseg>
+<trkpt lat="43.537299" lon="-80.218267">
+<ele>336.0</ele>
+</trkpt>
+<trkpt lat="43.536098" lon="-80.220027">
+<ele>312.1</ele>
+</trkpt>
+<trkpt lat="43.535124" lon="-80.221068">
+<ele>310.4</ele>
+</trkpt>
+<trkpt lat="43.53422" lon="-80.222287">
+<ele>317.9</ele>
+</trkpt>
+<trkpt lat="43.533515" lon="-80.222935">
+<ele>322.9</ele>
+</trkpt>
+<trkpt lat="43.531465" lon="-80.225919">
+<ele>295.4</ele>
+</trkpt>
+<trkpt lat="43.531367" lon="-80.226122">
+<ele>292.5</ele>
+</trkpt>
+</trkseg>
+<trkseg>
+<trkpt lat="43.530739" lon="-80.229501">
+<ele>323.2</ele>
+</trkpt>
+<trkpt lat="43.53085" lon="-80.229585">
+<ele>325.2</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

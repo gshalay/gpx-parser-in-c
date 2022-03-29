@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+version="1.1"
+creator="Topo Maps">
+<trk>
+<name>Reyn To  UC3</name>
+<trkseg>
+<trkpt lat="43.530763" lon="-80.229231">
+<ele>354.0</ele>
+</trkpt>
+<trkpt lat="43.530778" lon="-80.2293">
+<ele>349.6</ele>
+</trkpt>
+<trkpt lat="43.531014" lon="-80.229122">
+<ele>346.9</ele>
+</trkpt>
+<trkpt lat="43.53131" lon="-80.228813">
+<ele>349.9</ele>
+</trkpt>
+<trkpt lat="43.532245" lon="-80.228559">
+<ele>340.8</ele>
+</trkpt>
+<trkpt lat="43.533174" lon="-80.227589">
+<ele>351.0</ele>
+</trkpt>
+<trkpt lat="43.532089" lon="-80.22648">
+<ele>332.5</ele>
+</trkpt>
+<trkpt lat="43.531751" lon="-80.225912">
+<ele>331.4</ele>
+</trkpt>
+<trkpt lat="43.531209" lon="-80.226109">
+<ele>337.6</ele>
+</trkpt>
+<trkpt lat="43.530878" lon="-80.226389">
+<ele>329.2</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+version="1.1"
+creator="Topo Maps">
+<trk>
+<name>Reyn To UC1</name>
+<trkseg>
+<trkpt lat="43.530912" lon="-80.229241">
+<ele>335.0</ele>
+</trkpt>
+<trkpt lat="43.530258" lon="-80.229476">
+<ele>331.0</ele>
+</trkpt>
+<trkpt lat="43.529955" lon="-80.229129">
+<ele>315.6</ele>
+</trkpt>
+<trkpt lat="43.529685" lon="-80.228202">
+<ele>331.5</ele>
+</trkpt>
+<trkpt lat="43.529953" lon="-80.227588">
+<ele>343.7</ele>
+</trkpt>
+<trkpt lat="43.530525" lon="-80.226779">
+<ele>354.9</ele>
+</trkpt>
+<trkpt lat="43.530888" lon="-80.226548">
+<ele>344.9</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

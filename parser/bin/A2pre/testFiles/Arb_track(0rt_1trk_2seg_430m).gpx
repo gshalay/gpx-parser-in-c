@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+version="1.1"
+creator="Topo Maps">
+<trk>
+<name>Arboretum semi loop</name>
+<trkseg>
+<trkpt lat="43.536739" lon="-80.219084">
+<ele>327.0</ele>
+</trkpt>
+<trkpt lat="43.53708" lon="-80.218478">
+<ele>325.3</ele>
+</trkpt>
+<trkpt lat="43.537772" lon="-80.217628">
+<ele>322.5</ele>
+</trkpt>
+<trkpt lat="43.537968" lon="-80.21791">
+<ele>321.6</ele>
+</trkpt>
+<trkpt lat="43.538101" lon="-80.21835">
+<ele>320.5</ele>
+</trkpt>
+<trkpt lat="43.538241" lon="-80.218354">
+<ele>320.1</ele>
+</trkpt>
+</trkseg>
+<trkseg>
+<trkpt lat="43.538216" lon="-80.21826">
+<ele>322.7</ele>
+</trkpt>
+<trkpt lat="43.538379" lon="-80.218197">
+<ele>333.3</ele>
+</trkpt>
+<trkpt lat="43.5384" lon="-80.21782">
+<ele>332.2</ele>
+</trkpt>
+<trkpt lat="43.53829" lon="-80.217798">
+<ele>329.7</ele>
+</trkpt>
+<trkpt lat="43.538278" lon="-80.217875">
+<ele>328.4</ele>
+</trkpt>
+<trkpt lat="43.538306" lon="-80.217737">
+<ele>328.3</ele>
+</trkpt>
+<trkpt lat="43.538195" lon="-80.217587">
+<ele>328.8</ele>
+</trkpt>
+<trkpt lat="43.538199" lon="-80.217673">
+<ele>329.0</ele>
+</trkpt>
+<trkpt lat="43.538213" lon="-80.217561">
+<ele>329.2</ele>
+</trkpt>
+<trkpt lat="43.53807" lon="-80.217372">
+<ele>329.9</ele>
+</trkpt>
+<trkpt lat="43.538008" lon="-80.217338">
+<ele>327.5</ele>
+</trkpt>
+<trkpt lat="43.537841" lon="-80.21762">
+<ele>322.5</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
